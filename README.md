@@ -4,9 +4,11 @@ Kore.ai is an enterprise-grade Conversational AI & Automation Platform that enab
 
 Key Features of Kore.ai
 1. No-Code/Low-Code AI Assistant Development
+   
      ✔ Businesses can create chatbots and virtual assistants without deep coding knowledge using a drag-and-drop interface.
      ✔ Pre-built templates for industries like banking, healthcare, retail, and IT support.
-2. Multi-Channel Deployment
+   
+3. Multi-Channel Deployment
      ✔ Deploy AI assistants on:
         ✔ Websites & Mobile Apps
         ✔ WhatsApp, Facebook Messenger, SMS
