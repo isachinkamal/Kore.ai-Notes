@@ -8,22 +8,23 @@ Key Features of Kore.ai
      ✔ Businesses can create chatbots and virtual assistants without deep coding knowledge using a drag-and-drop interface.
      ✔ Pre-built templates for industries like banking, healthcare, retail, and IT support.
    
-3. Multi-Channel Deployment
+2. Multi-Channel Deployment
+   
      ✔ Deploy AI assistants on:
         ✔ Websites & Mobile Apps
         ✔ WhatsApp, Facebook Messenger, SMS
         ✔ Voice (IVR, Alexa, Google Assistant)
         ✔ Microsoft Teams, Slack, Salesforce
-4. Advanced Natural Language Processing (NLP)
+3. Advanced Natural Language Processing (NLP)
       ✔ Understands user intent, context, and sentiment for human-like conversations.
       ✔ Supports 100+ languages for global deployments.
-5. End-to-End Process Automation
+4. End-to-End Process Automation
       ✔ Automates workflows across:
            ✔ Customer Service (ticket resolution, FAQs)
            ✔ HR (leave requests, onboarding)
            ✔ IT Helpdesk (password resets, troubleshooting)
            ✔ Sales & Support (lead qualification, order tracking)
-6. Enterprise-Grade Security & Compliance
+5. Enterprise-Grade Security & Compliance
       ✔ SOC 2, GDPR, HIPAA, and PCI-DSS compliant.
       ✔ Role-based access control (RBAC) for secure deployments.
 
