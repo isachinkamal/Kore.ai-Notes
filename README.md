@@ -3,6 +3,7 @@ Kore.ai is an enterprise-grade Conversational AI & Automation Platform that enab
 
 
 Key Features of Kore.ai
+
 1. No-Code/Low-Code AI Assistant Development
    
      ✔ Businesses can create chatbots and virtual assistants without deep coding knowledge using a drag-and-drop interface.
@@ -15,16 +16,21 @@ Key Features of Kore.ai
         ✔ WhatsApp, Facebook Messenger, SMS
         ✔ Voice (IVR, Alexa, Google Assistant)
         ✔ Microsoft Teams, Slack, Salesforce
-3. Advanced Natural Language Processing (NLP)
+   
+4. Advanced Natural Language Processing (NLP)
+   
       ✔ Understands user intent, context, and sentiment for human-like conversations.
       ✔ Supports 100+ languages for global deployments.
-4. End-to-End Process Automation
+   
+5. End-to-End Process Automation
+   
       ✔ Automates workflows across:
            ✔ Customer Service (ticket resolution, FAQs)
            ✔ HR (leave requests, onboarding)
            ✔ IT Helpdesk (password resets, troubleshooting)
            ✔ Sales & Support (lead qualification, order tracking)
-5. Enterprise-Grade Security & Compliance
+   
+7. Enterprise-Grade Security & Compliance
       ✔ SOC 2, GDPR, HIPAA, and PCI-DSS compliant.
       ✔ Role-based access control (RBAC) for secure deployments.
 
