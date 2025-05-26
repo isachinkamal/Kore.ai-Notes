@@ -31,19 +31,28 @@ Key Features of Kore.ai
            ✔ Sales & Support (lead qualification, order tracking)
    
 7. Enterprise-Grade Security & Compliance
+   
       ✔ SOC 2, GDPR, HIPAA, and PCI-DSS compliant.
       ✔ Role-based access control (RBAC) for secure deployments.
 
 
 How Kore.ai Works?
+
   1. Design
+     
       ✔ Use Kore.ai’s visual builder to create conversation flows.
       ✔ Train AI models with industry-specific data.
+     
   2. Integrate
+     
       ✔ Connect with CRM (Salesforce, Zoho), ERP (SAP), databases, and APIs.
+     
   3. Deploy
+     
       ✔ Launch chatbots on websites, apps, or messaging platforms.
+     
   4. Monitor & Optimize
+     
       ✔ Track performance with analytics dashboards.
       ✔ Continuously improve AI with machine learning.
 
