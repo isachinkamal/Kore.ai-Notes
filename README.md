@@ -10,9 +10,7 @@ Key Features of Kore.ai
    
      ✔ Pre-built templates for industries like banking, healthcare, retail, and IT support.
    
-2. Multi-Channel Deployment
-   
-     ✔ Deploy AI assistants on:
+2. Multi-Channel Deployment - Deploy AI assistants on:
    
         ✔ Websites & Mobile Apps
    
@@ -29,15 +27,15 @@ Key Features of Kore.ai
    
       ✔ Supports 100+ languages for global deployments.
    
-6. End-to-End Process Automation
+4. End-to-End Process Automation : Automates workflows across:
    
-      ✔ Automates workflows across:
            ✔ Customer Service (ticket resolution, FAQs)
+   
            ✔ HR (leave requests, onboarding)
            ✔ IT Helpdesk (password resets, troubleshooting)
            ✔ Sales & Support (lead qualification, order tracking)
    
-7. Enterprise-Grade Security & Compliance
+8. Enterprise-Grade Security & Compliance
    
       ✔ SOC 2, GDPR, HIPAA, and PCI-DSS compliant.
       ✔ Role-based access control (RBAC) for secure deployments.
