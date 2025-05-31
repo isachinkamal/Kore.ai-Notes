@@ -69,11 +69,15 @@ Kore.ai is an enterprise-grade Conversational AI & Automation Platform that enab
 
 ## Use Cases of Kore.ai:
 
-Banking	                 : Balance checks, fraud alerts, loan processing.
-Healthcare 	             : Appointment scheduling, symptom checking, insurance claims.
-Retail	                 : Order tracking, product recommendations, returns.
-IT Helpdesk	             : Password resets, ticket routing, outage alerts.
-HR	                     : Employee onboarding, leave approvals, policy FAQs.
+      ✔ Banking	                 : Balance checks, fraud alerts, loan processing.
+
+      ✔ Healthcare 	              : Appointment scheduling, symptom checking, insurance claims.
+
+      ✔ Retail	                    : Order tracking, product recommendations, returns.
+
+      ✔ IT Helpdesk	              : Password resets, ticket routing, outage alerts.
+
+      ✔ HR	                       : Employee onboarding, leave approvals, policy FAQs.
 
 
 ## Why Choose Kore.ai Over Other Platforms?
