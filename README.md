@@ -1,7 +1,6 @@
 ## What is Kore.ai?
 Kore.ai is an enterprise-grade Conversational AI & Automation Platform that enables businesses to build, deploy, and manage AI-powered virtual assistants, chatbots, and process automation solutions. Unlike basic chatbots, Kore.ai focuses on enterprise scalability, security, and seamless integration with business systems to enhance customer and employee experiences.
 
-
 ## Key Features of Kore.ai
 
 1. No-Code/Low-Code AI Assistant Development :
