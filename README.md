@@ -102,5 +102,5 @@ Kore.ai is an enterprise-grade Conversational AI & Automation Platform that enab
 
 
 ## Conclusion
-Kore.ai is a powerful AI-driven platform that transforms customer and employee interactions through intelligent automation, omnichannel support, and enterprise-grade security. Whether for customer service, HR, IT, or sales, Kore.ai helps businesses reduce costs, improve efficiency, and enhance CX.
+Kore.ai is a powerful AI-driven platform that transforms customer and employee interactions through intelligent automation, omnichannel support, and enterprise-grade security. Whether for customer service, HR, IT, or sales, Kore.ai helps businesses reduce costs, improve efficiency, and enhance Customer Experience
 
