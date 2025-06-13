@@ -92,7 +92,7 @@ Kore.ai is an enterprise-grade Conversational AI & Automation Platform that enab
 
 ## Future of Kore.ai
 
-   ✔ Hyper-personalization with predictive AI.
+   ✔ Hyper-personalization with the predictive AI.
    
    ✔ Autonomous AI agents that handle end-to-end customer journeys.
    
